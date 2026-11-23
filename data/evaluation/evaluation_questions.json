@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "question": "What was Apple's total net sales in 2023?",
+    "company": "Apple",
+    "year": 2023,
+    "gold_chunks": ["apple_2023_p31_c0"]
+  },
+  {
+    "id": 2,
+    "question": "What was Apple's net income in 2023?",
+    "company": "Apple",
+    "year": 2023,
+    "gold_chunks": ["apple_2023_p31_c0"]
+  },
+  {
+    "id": 3,
+    "question": "How much did Apple spend on research and development in 2024?",
+    "company": "Apple",
+    "year": 2024,
+    "gold_chunks": ["apple_2024_p32_c0"]
+  },
+  {
+    "id": 4,
+    "question": "What was Apple's total net sales in 2024?",
+    "company": "Apple",
+    "year": 2024,
+    "gold_chunks": ["apple_2024_p25_c0"]
+  },
+  {
+    "id": 5,
+    "question": "What were Apple's Services net sales in 2024?",
+    "company": "Apple",
+    "year": 2024,
+    "gold_chunks": ["apple_2024_p26_c0"]
+  },
+  {
+    "id": 6,
+    "question": "What was Apple's total gross margin in 2023?",
+    "company": "Apple",
+    "year": 2023,
+    "gold_chunks": ["apple_2023_p26_c0"]
+  },
+  {
+    "id": 7,
+    "question": "What were Apple's total operating expenses in 2023?",
+    "company": "Apple",
+    "year": 2023,
+    "gold_chunks": ["apple_2023_p26_c1"]
+  },
+  {
+    "id": 8,
+    "question": "What were Apple's net sales in China in 2023?",
+    "company": "Apple",
+    "year": 2023,
+    "gold_chunks": ["apple_2023_p51_c0"]
+  },
+
+  {
+    "id": 9,
+    "question": "What was Microsoft's total revenue in 2023?",
+    "company": "Microsoft",
+    "year": 2023,
+    "gold_chunks": ["microsoft_2023_p44_c0"]
+  },
+  {
+    "id": 10,
+    "question": "What was Microsoft's net income in 2024?",
+    "company": "Microsoft",
+    "year": 2024,
+    "gold_chunks": ["microsoft_2024_p44_c0"]
+  },
+  {
+    "id": 11,
+    "question": "What was Microsoft's operating income in 2024?",
+    "company": "Microsoft",
+    "year": 2024,
+    "gold_chunks": ["microsoft_2024_p44_c0"]
+  },
+  {
+    "id": 12,
+    "question": "What were Microsoft's three major reportable revenue segments in 2024?",
+    "company": "Microsoft",
+    "year": 2024,
+    "gold_chunks": ["microsoft_2024_p80_c1"]
+  },
+  {
+    "id": 13,
+    "question": "What are some major risk factors affecting Microsoft?",
+    "company": "Microsoft",
+    "year": 2024,
+    "gold_chunks": [
+      "microsoft_2024_p25_c1",
+      "microsoft_2024_p28_c1"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "How much did Microsoft spend on research and development in 2024?",
+    "company": "Microsoft",
+    "year": 2024,
+    "gold_chunks": ["microsoft_2024_p34_c0"]
+  },
+  {
+    "id": 15,
+    "question": "What was Microsoft's Intelligent Cloud revenue in 2024?",
+    "company": "Microsoft",
+    "year": 2024,
+    "gold_chunks": ["microsoft_2024_p80_c1"]
+  },
+  {
+    "id": 16,
+    "question": "What were Microsoft's total assets as of June 30, 2024?",
+    "company": "Microsoft",
+    "year": 2024,
+    "gold_chunks": ["microsoft_2024_p46_c0"]
+  },
+
+  {
+    "id": 17,
+    "question": "What was NVIDIA's revenue in fiscal 2024?",
+    "company": "NVIDIA",
+    "year": 2024,
+    "gold_chunks": ["nvidia_2024_p20_c0"]
+  },
+  {
+    "id": 18,
+    "question": "What was NVIDIA's revenue in fiscal 2025?",
+    "company": "NVIDIA",
+    "year": 2025,
+    "gold_chunks": ["nvidia_2025_p18_c0"]
+  },
+  {
+    "id": 19,
+    "question": "By what percentage did NVIDIA's revenue grow in fiscal 2025?",
+    "company": "NVIDIA",
+    "year": 2025,
+    "gold_chunks": ["nvidia_2025_p18_c0"]
+  },
+  {
+    "id": 20,
+    "question": "What was NVIDIA's Data Center revenue in fiscal 2024?",
+    "company": "NVIDIA",
+    "year": 2024,
+    "gold_chunks": ["nvidia_2024_p13_c0"]
+  },
+  {
+    "id": 21,
+    "question": "What was NVIDIA's gross margin in fiscal 2025?",
+    "company": "NVIDIA",
+    "year": 2025,
+    "gold_chunks": ["nvidia_2025_p18_c0"]
+  },
+  {
+    "id": 22,
+    "question": "What was NVIDIA's operating income in fiscal 2025?",
+    "company": "NVIDIA",
+    "year": 2025,
+    "gold_chunks": ["nvidia_2025_p18_c0"]
+  },
+  {
+    "id": 23,
+    "question": "What are some major risk factors identified by NVIDIA?",
+    "company": "NVIDIA",
+    "year": 2023,
+    "gold_chunks": [
+      "nvidia_2023_p95_c0",
+      "nvidia_2023_p96_c0"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "What are NVIDIA's two major reportable segments in fiscal 2025?",
+    "company": "NVIDIA",
+    "year": 2025,
+    "gold_chunks": ["nvidia_2025_p133_c0"]
+  }
+]

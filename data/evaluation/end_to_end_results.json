@@ -1,0 +1,363 @@
+{
+  "total_questions": 24,
+  "retrieval_recall_at_20": 0.6666666666666666,
+  "answer_generation_rate": 1.0,
+  "structural_citation_rate": 1.0,
+  "semantic_citation_rate": 0.9583333333333334,
+  "results": [
+    {
+      "id": 1,
+      "question": "What was Apple's total net sales in 2023?",
+      "retrieval_hit": true,
+      "gold_rank": 1,
+      "answer_generated": true,
+      "answer": "Apple's total net sales in 2023 were $383,285 million.",
+      "confidence": "high",
+      "citations": [
+        "apple_2023_p31_c0",
+        "apple_2023_p51_c0",
+        "apple_2023_p38_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 2,
+      "question": "What was Apple's net income in 2023?",
+      "retrieval_hit": true,
+      "gold_rank": 4,
+      "answer_generated": true,
+      "answer": "Apple's net income in 2023 was $96,995 million.",
+      "confidence": "high",
+      "citations": [
+        "apple_2023_p31_c0",
+        "apple_2023_p32_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 3,
+      "question": "How much did Apple spend on research and development in 2024?",
+      "retrieval_hit": true,
+      "gold_rank": 2,
+      "answer_generated": true,
+      "answer": "Apple spent $31,370 million on research and development in 2024.",
+      "confidence": "high",
+      "citations": [
+        "apple_2024_p32_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 4,
+      "question": "What was Apple's total net sales in 2024?",
+      "retrieval_hit": false,
+      "gold_rank": null,
+      "answer_generated": true,
+      "answer": "Apple's total net sales in 2024 were $391,035 million.",
+      "confidence": "high",
+      "citations": [
+        "apple_2024_p38_c2",
+        "apple_2024_p32_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 5,
+      "question": "What were Apple's Services net sales in 2024?",
+      "retrieval_hit": true,
+      "gold_rank": 2,
+      "answer_generated": true,
+      "answer": "Apple's Services net sales in 2024 were $96,169 million.",
+      "confidence": "high",
+      "citations": [
+        "apple_2024_p38_c2",
+        "apple_2024_p26_c0",
+        "apple_2024_p32_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 6,
+      "question": "What was Apple's total gross margin in 2023?",
+      "retrieval_hit": true,
+      "gold_rank": 3,
+      "answer_generated": true,
+      "answer": "Apple's total gross margin in 2023 was $169,148 million.",
+      "confidence": "high",
+      "citations": [
+        "apple_2023_p31_c0",
+        "apple_2023_p26_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 7,
+      "question": "What were Apple's total operating expenses in 2023?",
+      "retrieval_hit": true,
+      "gold_rank": 1,
+      "answer_generated": true,
+      "answer": "Apple's total operating expenses in 2023 were $54,847 million.",
+      "confidence": "high",
+      "citations": [
+        "apple_2023_p26_c1",
+        "apple_2023_p31_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 8,
+      "question": "What were Apple's net sales in China in 2023?",
+      "retrieval_hit": true,
+      "gold_rank": 1,
+      "answer_generated": true,
+      "answer": "Apple's net sales in China (greater China) were $72,559 million in 2023.",
+      "confidence": "high",
+      "citations": [
+        "apple_2023_p51_c0",
+        "apple_2023_p24_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 9,
+      "question": "What was Microsoft's total revenue in 2023?",
+      "retrieval_hit": false,
+      "gold_rank": null,
+      "answer_generated": true,
+      "answer": "Microsoft's total revenue for fiscal year 2023 was $211,915 million.",
+      "confidence": "high",
+      "citations": [
+        "microsoft_2023_p76_c1",
+        "microsoft_2023_p77_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 10,
+      "question": "What was Microsoft's net income in 2024?",
+      "retrieval_hit": false,
+      "gold_rank": null,
+      "answer_generated": true,
+      "answer": "The provided evidence does not contain a figure for Microsoft’s net income in fiscal year 2024.",
+      "confidence": "high",
+      "citations": [],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 11,
+      "question": "What was Microsoft's operating income in 2024?",
+      "retrieval_hit": false,
+      "gold_rank": null,
+      "answer_generated": true,
+      "answer": "Microsoft's operating income for fiscal year 2024 was $109,433 million.",
+      "confidence": "high",
+      "citations": [
+        "microsoft_2024_p32_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 12,
+      "question": "What were Microsoft's three major reportable revenue segments in 2024?",
+      "retrieval_hit": false,
+      "gold_rank": null,
+      "answer_generated": true,
+      "answer": "Microsoft’s three reportable revenue segments in fiscal 2024 were: productivity and business processes; intelligent cloud; and more personal computing.",
+      "confidence": "high",
+      "citations": [
+        "microsoft_2024_p29_c0",
+        "microsoft_2024_p79_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 13,
+      "question": "What are some major risk factors affecting Microsoft?",
+      "retrieval_hit": false,
+      "gold_rank": null,
+      "answer_generated": true,
+      "answer": "Microsoft identifies several major risk factors, including:\n• Regulatory compliance obligations, such as those created by the EU Digital Markets Act and EU Digital Services Act, which require independent compliance functions and ongoing monitoring (microsoft_2024_p26_c0).\n• Intense competition and rapid industry changes in software, devices, and cloud‑based services, requiring continual innovation and adaptation (microsoft_2024_p28_c0).\n• Exposure to global macroeconomic and geopolitical conditions that can affect aggregate demand for its products and services (microsoft_2024_p28_c0).\n• Supply‑chain risks, including dependence on third‑party contract manufacturers and a limited number of qualified suppliers for certain components; disruptions could delay device production (microsoft_2024_p28_c0; microsoft_2024_p20_c0).\n• Need for substantial land, energy, networking supplies, and server components (including GPUs) for datacenter expansion, which could be constrained (microsoft_2024_p28_c0).\n• Talent acquisition and retention challenges, as success depends on attracting and keeping qualified employees worldwide (microsoft_2024_p28_c0).\n• Rising operating costs from investments in cloud and AI infrastructure that may pressure operating margins (microsoft_2024_p28_c0).",
+      "confidence": "high",
+      "citations": [
+        "microsoft_2024_p26_c0",
+        "microsoft_2024_p28_c0",
+        "microsoft_2024_p20_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": false
+    },
+    {
+      "id": 14,
+      "question": "How much did Microsoft spend on research and development in 2024?",
+      "retrieval_hit": true,
+      "gold_rank": 1,
+      "answer_generated": true,
+      "answer": "Microsoft spent $29,510 million on research and development in fiscal year 2024.",
+      "confidence": "high",
+      "citations": [
+        "microsoft_2024_p34_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 15,
+      "question": "What was Microsoft's Intelligent Cloud revenue in 2024?",
+      "retrieval_hit": false,
+      "gold_rank": null,
+      "answer_generated": true,
+      "answer": "Microsoft's Intelligent Cloud revenue in fiscal year 2024 was $105,362 million.",
+      "confidence": "high",
+      "citations": [
+        "microsoft_2024_p32_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 16,
+      "question": "What were Microsoft's total assets as of June 30, 2024?",
+      "retrieval_hit": true,
+      "gold_rank": 4,
+      "answer_generated": true,
+      "answer": "Microsoft's total assets as of June 30, 2024 were $512,163 million.",
+      "confidence": "high",
+      "citations": [
+        "microsoft_2024_p46_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 17,
+      "question": "What was NVIDIA's revenue in fiscal 2024?",
+      "retrieval_hit": true,
+      "gold_rank": 5,
+      "answer_generated": true,
+      "answer": "NVIDIA's revenue in fiscal 2024 was $60.9 billion.",
+      "confidence": "high",
+      "citations": [
+        "nvidia_2024_p20_c0",
+        "nvidia_2024_p166_c1"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 18,
+      "question": "What was NVIDIA's revenue in fiscal 2025?",
+      "retrieval_hit": true,
+      "gold_rank": 1,
+      "answer_generated": true,
+      "answer": "$130.5 billion",
+      "confidence": "high",
+      "citations": [
+        "nvidia_2025_p18_c0",
+        "nvidia_2025_p144_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 19,
+      "question": "By what percentage did NVIDIA's revenue grow in fiscal 2025?",
+      "retrieval_hit": true,
+      "gold_rank": 1,
+      "answer_generated": true,
+      "answer": "NVIDIA's revenue grew by 114% year over year in fiscal 2025.",
+      "confidence": "high",
+      "citations": [
+        "nvidia_2025_p18_c0",
+        "nvidia_2025_p11_c1"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 20,
+      "question": "What was NVIDIA's Data Center revenue in fiscal 2024?",
+      "retrieval_hit": false,
+      "gold_rank": null,
+      "answer_generated": true,
+      "answer": "NVIDIA's Data Center revenue in fiscal 2024 was $47.5 billion.",
+      "confidence": "high",
+      "citations": [
+        "nvidia_2024_p123_c1",
+        "nvidia_2024_p166_c1",
+        "nvidia_2024_p20_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 21,
+      "question": "What was NVIDIA's gross margin in fiscal 2025?",
+      "retrieval_hit": true,
+      "gold_rank": 1,
+      "answer_generated": true,
+      "answer": "NVIDIA's gross margin in fiscal 2025 was 75.0%.",
+      "confidence": "high",
+      "citations": [
+        "nvidia_2025_p18_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 22,
+      "question": "What was NVIDIA's operating income in fiscal 2025?",
+      "retrieval_hit": true,
+      "gold_rank": 1,
+      "answer_generated": true,
+      "answer": "NVIDIA reported operating income of $81.5 billion in fiscal 2025.",
+      "confidence": "high",
+      "citations": [
+        "nvidia_2025_p18_c0",
+        "nvidia_2025_p144_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 23,
+      "question": "What are some major risk factors identified by NVIDIA?",
+      "retrieval_hit": true,
+      "gold_rank": 1,
+      "answer_generated": true,
+      "answer": "NVIDIA highlights several major risk factors, including:\n• Failure to meet the evolving needs of its industry and markets, which could hurt financial results.\n• Intense competition that could cause loss of market share and revenue.\n• Mismatches between customer demand and supply, leading to inventory or shortage issues.\n• Dependence on third‑party suppliers, which reduces control over product quantity, quality, yields and delivery schedules.\n• Product defects that may require costly remediation.\n• Adverse economic conditions and geopolitical or regulatory changes in the international markets where it operates.\n• Cyber‑security breaches, data breaches or other product/system security incidents that could disrupt operations.\n• Business disruptions, including climate‑change impacts.\n• Challenges integrating acquisitions or realizing their benefits.\n• Concentration of revenue among a limited number of customers.\nThese risks are summarized in NVIDIA’s “Risk Factors” section of its 2023 Form 10‑K.",
+      "confidence": "high",
+      "citations": [
+        "nvidia_2023_p95_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    },
+    {
+      "id": 24,
+      "question": "What are NVIDIA's two major reportable segments in fiscal 2025?",
+      "retrieval_hit": true,
+      "gold_rank": 1,
+      "answer_generated": true,
+      "answer": "NVIDIA’s two reportable segments in fiscal 2025 are “Compute & Networking” and “Graphics.”",
+      "confidence": "high",
+      "citations": [
+        "nvidia_2025_p18_c0",
+        "nvidia_2025_p133_c0"
+      ],
+      "structural_valid": true,
+      "semantic_supported": true
+    }
+  ]
+}
